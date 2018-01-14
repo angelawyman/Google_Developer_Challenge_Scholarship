@@ -1,4 +1,4 @@
-##Day 1
+## Day 1
 Welcome
 
 2. HTML Syntax
@@ -24,11 +24,11 @@ Welcome
 22. Challenge Course Wrap Up
 
 
-###Concepts:
+### Concepts:
 *relative absolute paths
 *color 1 to 255 or 0 to F
 _
-###Exercises:
+### Exercises:
 4. **Project: Mockup to Article/Website**
 8. _Project: Animal Trading Cards_
 
@@ -38,7 +38,7 @@ _
 _
 
 
-##Logging
+## Logging
 1/11/2018 1-3.11 both options
 1/13/2018 3.11-4
 1/14/2018 4-5
