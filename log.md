@@ -1,5 +1,5 @@
 # Day 1
-Welcome
+### Welcome
 
 2. HTML Syntax
 3. HTML Syntax Problem
