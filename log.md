@@ -25,12 +25,12 @@ Welcome
 
 
 ### Concepts:
-*relative absolute paths
-*color 1 to 255 or 0 to F
+* relative absolute paths
+* color 1 to 255 or 0 to F
 _
 ### Exercises:
-4. ** Project: Mockup to Article/Website **
-8. _ Project: Animal Trading Cards _
+4. **Project: Mockup to Article/Website**
+8. _Project: Animal Trading Cards_
 
 ### Participation
 * Slack
