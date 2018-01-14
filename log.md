@@ -27,6 +27,8 @@
 ## Concepts:
 * relative absolute paths
 * color 1 to 255 or 0 to F
+* Chrome Dev Tools shortcuts
+* Sublime shortcuts practice for speed coding
 _
 ## Exercises:
 4. **Project: Mockup to Article/Website**
@@ -42,6 +44,6 @@ _
 
 1/13/2018 3.11-4
 
-1/14/2018 4-5
+1/14/2018 4-7
 
 
