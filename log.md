@@ -3,11 +3,11 @@
 
 2. HTML Syntax
 3. HTML Syntax Problem
-4. **Project: Mockup to Article/Website**
+4. **Project:** Mockup to Article/Website
 5. CSS Syntax
 6. CSS Syntax Problem Set
 7. How to Write Code Faster
-8. _Project: Animal Trading Cards_
+8. _Project:_ Animal Trading Cards
 9. Next Up
 10. What is Javascript?
 11. Data Types & Variables
@@ -35,7 +35,6 @@ _
 ## Participation
 * Slack
 * Forum
-horizontal rule
 
 
 ## Logging
@@ -44,4 +43,5 @@ horizontal rule
 1/13/2018 3.11-4
 
 1/14/2018 4-5
+
 
