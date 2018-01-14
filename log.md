@@ -29,13 +29,13 @@ Welcome
 *color 1 to 255 or 0 to F
 _
 ### Exercises:
-4. **Project: Mockup to Article/Website**
-8. _Project: Animal Trading Cards_
+4. ** Project: Mockup to Article/Website **
+8. _ Project: Animal Trading Cards _
 
 ### Participation
 * Slack
 * Forum
-_
+horizontal rule
 
 
 ## Logging
