@@ -7,7 +7,7 @@
 5. CSS Syntax
 6. CSS Syntax Problem Set
 7. How to Write Code Faster
-8. _Project:_ Animal Trading Cards
+8. **Project:** Animal Trading Cards
 9. Next Up
 10. What is Javascript?
 11. Data Types & Variables
@@ -31,8 +31,8 @@
 * Sublime shortcuts practice for speed coding
 _
 ## Exercises:
-4. **Project: Mockup to Article/Website**
-8. _Project: Animal Trading Cards_
+4. **Project:** Mockup to Article/Website
+8. **Project:** Animal Trading Cards_
 
 ## Participation
 * Slack
@@ -44,6 +44,6 @@ _
 
 1/13/2018 3.11-4
 
-1/14/2018 4-7
+1/14/2018 4-10
 
 
